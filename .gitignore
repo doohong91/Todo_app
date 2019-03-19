@@ -1,0 +1,8 @@
+# 가상환경 파일 dir
+venv/
+# python auto generated cache
+__pycache__/
+# jetbrain auto genereated cache
+.idea/
+# Default Djanjo DB
+*.sqlite3
